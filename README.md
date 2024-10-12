@@ -6,6 +6,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Memos-Top-orange" />
   <img src="https://img.shields.io/badge/Author-eallion-brightgreen" />
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/95111dbf-07d4-4da2-acf1-748cc85df0f9/deploy-status)](https://app.netlify.com/sites/masone/deploys)
+   <img src="https://api.netlify.com/api/v1/badges/95111dbf-07d4-4da2-acf1-748cc85df0f9/deploy-status" />
 </p>
 
 <p align="center">
